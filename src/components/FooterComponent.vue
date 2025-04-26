@@ -1,6 +1,4 @@
 <template>
-    <footer class="mt-10 w-full rounded-xl py-4 text-center children:(mx-3)">    
-    </footer>
 </template>
 
 <script>
